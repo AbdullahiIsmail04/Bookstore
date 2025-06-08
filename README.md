@@ -2,9 +2,6 @@
 
 A fully responsive and modern bookstore website built with HTML, CSS, and a little bit of JavaScript. The design is clean, user-friendly, and structured to give visitors a pleasant browsing experience. Perfect for showcasing books and connecting with readers.
 
-## 🌐 Live Demo
-https://abdullahiismail04.github.io/Bookstore/
-
 ---
 
 ## 📁 Sections Overview
